@@ -1,0 +1,707 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.314 seconds
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.359 seconds
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+TerrainData is missing splat texture 2.
+ 
+(Filename:  Line: 206)
+
+UnloadTime: 62.602028 ms
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.051 seconds
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+TerrainData is missing splat texture 2.
+ 
+(Filename:  Line: 206)
+
+UnloadTime: 0.887236 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: e00 -> priority: 1 
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.056 seconds
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4400 (ID=0x41e)
+    Vendor:   Intel
+    VRAM:     1792 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\admin\Documents\GitHub\water-planner\WaterPlanner\Releases\PC\waterplanner_demo0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+TerrainData is missing splat texture 2.
+ 
+(Filename:  Line: 206)
+
+UnloadTime: 0.792867 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 16f4 -> priority: 1 
+Attach to infrastructure: move object from (325.3, 90.2, 144.7) to (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (371.2, 66.8, 184.2) to (376.8, 66.7, 173.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (376.1, 58.0, 266.5) to (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (288.6, 51.5, 345.9) to (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (373.0, 59.1, 261.1) to (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (332.6, 15.1, 265.8) to (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (310.8, 13.4, 294.2) to (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (279.1, 27.8, 324.7) to (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (288.6, 51.5, 345.6) to (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (288.6, 51.5, 345.1) to (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (275.4, 34.0, 312.8) to (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (252.2, 36.9, 318.3) to (253.1, 35.6, 316.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (285.5, 28.6, 244.0) to (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (346.6, 7.2, 188.3) to (347.1, 7.6, 186.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (327.3, 89.1, 144.8) to (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+start pipe at (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (327.7, 91.4, 133.0) and (376.8, 66.7, 173.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (376.8, 66.7, 173.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (376.8, 66.7, 173.6) and (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (384.6, 58.9, 258.1) and (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (299.4, 46.5, 344.3) and (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (384.6, 58.9, 258.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (384.6, 58.9, 258.1) and (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (334.0, 14.8, 263.8) and (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (312.4, 11.8, 292.2) and (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (279.8, 25.8, 323.8) and (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (299.4, 46.5, 344.3) and (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (299.4, 46.5, 344.3) and (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (276.1, 32.1, 310.8) and (253.1, 35.6, 316.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (253.1, 35.6, 316.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (253.1, 35.6, 316.3) and (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (285.3, 28.1, 242.0) and (347.1, 7.6, 186.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (347.1, 7.6, 186.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (347.1, 7.6, 186.3) and (327.3, 89.1, 144.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+end pipe at (327.3, 89.1, 144.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (332.0, 16.5, 265.7) to (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (346.8, 8.8, 188.3) to (347.1, 7.6, 186.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+start pipe at (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (334.0, 14.8, 263.8) and (346.8, 8.8, 188.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+end pipe at (346.8, 8.8, 188.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (288.8, 51.6, 346.5) to (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (323.1, 91.3, 144.1) to (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (284.9, 29.2, 244.0) to (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (332.5, 16.2, 265.8) to (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (276.1, 34.1, 311.9) to (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (311.6, 13.8, 292.0) to (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (279.5, 27.8, 325.8) to (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (275.8, 34.1, 310.8) to (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Attach to infrastructure: move object from (285.7, 29.6, 244.0) to (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+start pipe at (299.4, 46.5, 344.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (299.4, 46.5, 344.3) and (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (327.7, 91.4, 133.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (327.7, 91.4, 133.0) and (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (285.3, 28.1, 242.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (285.3, 28.1, 242.0) and (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (334.0, 14.8, 263.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (334.0, 14.8, 263.8) and (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (276.1, 32.1, 310.8) and (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (312.4, 11.8, 292.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (312.4, 11.8, 292.2) and (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (279.8, 25.8, 323.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (279.8, 25.8, 323.8) and (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+place joint at (276.1, 32.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+draw pipe between (276.1, 32.1, 310.8) and (285.7, 29.6, 244.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+end pipe at (285.7, 29.6, 244.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (375.9, 50.9, 179.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (369.6, 65.6, 183.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (369.2, 71.9, 186.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (375.9, 65.2, 263.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (289.1, 52.5, 345.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (291.7, 55.4, 346.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (292.9, 56.1, 341.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (375.7, 64.3, 264.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (304.1, 54.8, 306.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (339.5, 12.4, 253.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (329.8, 97.7, 143.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (310.5, 64.4, 262.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (331.0, 89.9, 144.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (368.3, 65.4, 182.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (372.7, 57.5, 259.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (289.0, 51.3, 340.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (277.6, 34.1, 310.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (332.5, 16.8, 265.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (331.4, 23.8, 263.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (367.6, 10.3, 225.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (366.6, 12.2, 213.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (326.9, 28.2, 265.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (315.7, 54.7, 265.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (316.2, 62.9, 266.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (365.9, 62.1, 175.2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (367.7, 72.6, 178.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (378.8, 42.7, 256.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch red_ball at (372.6, 59.5, 257.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (292.0, 51.8, 336.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (373.4, 61.7, 261.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (367.7, 65.8, 181.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (274.8, 67.6, 322.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (272.7, 67.2, 325.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (271.5, 66.8, 330.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (269.9, 67.0, 334.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (268.2, 67.2, 339.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (266.3, 67.5, 344.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (264.3, 67.7, 349.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (261.8, 68.0, 356.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (265.4, 67.6, 346.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (337.7, 1.2, 231.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (332.0, 15.6, 263.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (321.7, 89.1, 143.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (373.8, 61.5, 183.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (370.7, 65.0, 183.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (368.3, 43.7, 174.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (342.7, 55.2, 150.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (296.5, 27.0, 134.7)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (244.3, 11.4, 235.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (191.2, 0.5, 23.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (215.1, 12.0, 182.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (202.0, 0.5, -10.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (158.0, 0.5, 23.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (212.2, 16.7, 192.8)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (167.4, 0.5, -8.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (248.9, 2.0, 178.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (228.7, 9.4, 209.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (354.2, 43.2, 159.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (349.8, 45.4, 168.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (304.6, 45.5, 128.6)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch blue_pill at (304.8, 45.1, 131.3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (357.5, 35.7, 166.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (357.9, 46.2, 162.1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (377.1, 60.1, 267.4)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (370.8, 67.9, 183.9)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+I will try to launch green_cube at (332.0, 63.8, 142.5)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
